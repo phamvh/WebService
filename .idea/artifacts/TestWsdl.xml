@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TestWsdl">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestWsdl</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TestWsdl" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="TestWsdl/web/Web" />
+    </root>
+  </artifact>
+</component>

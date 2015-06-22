@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SOAP5_ServiceInterface">
+    <output-path>$PROJECT_DIR$/out/artifacts/SOAP5_ServiceInterface</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SOAP5_ServiceInterface/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SOAP5_ServiceInterface" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

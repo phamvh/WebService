@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SOAP6_JAXB">
+    <output-path>$PROJECT_DIR$/out/artifacts/SOAP6_JAXB</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SOAP6_JAXB/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SOAP6_JAXB" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

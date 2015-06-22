@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SOAP2_params">
+    <output-path>$PROJECT_DIR$/out/artifacts/SOAP2_params</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SOAP2_params" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="SOAP2_params/web/Web" />
+    </root>
+  </artifact>
+</component>

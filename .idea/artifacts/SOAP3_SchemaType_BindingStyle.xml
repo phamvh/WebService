@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SOAP3_SchemaType_BindingStyle">
+    <output-path>$PROJECT_DIR$/out/artifacts/SOAP3_SchemaType_BindingStyle</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SOAP3_SchemaType_BindingStyle" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="SOAP3_SchemaType_BindingStyle/web/Web" />
+    </root>
+  </artifact>
+</component>

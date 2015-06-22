@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SOAP0_IPLocator/SOAP0_IPLocator.iml" filepath="$PROJECT_DIR$/SOAP0_IPLocator/SOAP0_IPLocator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOAP1/SOAP1.iml" filepath="$PROJECT_DIR$/SOAP1/SOAP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOAP2_params/SOAP2_params.iml" filepath="$PROJECT_DIR$/SOAP2_params/SOAP2_params.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOAP3_SchemaType_BindingStyle/SOAP3_SchemaType_BindingStyle.iml" filepath="$PROJECT_DIR$/SOAP3_SchemaType_BindingStyle/SOAP3_SchemaType_BindingStyle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOAP4_CustomType/SOAP4_CustomType.iml" filepath="$PROJECT_DIR$/SOAP4_CustomType/SOAP4_CustomType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOAP5_ServiceInterface/SOAP5_ServiceInterface.iml" filepath="$PROJECT_DIR$/SOAP5_ServiceInterface/SOAP5_ServiceInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOAP6_JAXB/SOAP6_JAXB.iml" filepath="$PROJECT_DIR$/SOAP6_JAXB/SOAP6_JAXB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOAP7_HandlingException/SOAP7_HandlingException.iml" filepath="$PROJECT_DIR$/SOAP7_HandlingException/SOAP7_HandlingException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOAP8_EndPoint/SOAP8_EndPoint.iml" filepath="$PROJECT_DIR$/SOAP8_EndPoint/SOAP8_EndPoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOAP9_GeneratedFromWsdl/SOAP9_GeneratedFromWsdl.iml" filepath="$PROJECT_DIR$/SOAP9_GeneratedFromWsdl/SOAP9_GeneratedFromWsdl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestWsdl/TestWsdl.iml" filepath="$PROJECT_DIR$/TestWsdl/TestWsdl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebService.iml" filepath="$PROJECT_DIR$/WebService.iml" />
+    </modules>
+  </component>
+</project>
